@@ -23,7 +23,8 @@ g++ -std=c++20 -Wall -o modulrechner main.cpp
 So sollte die Text Datei aussehen, die du dem Modulrechner gibst
 Name Note(in Prozentpunkten ohne % zeichen) Crp halbgewichtet(y/n)
 
+```bash
 Betriebssysteme 85 6 n
 BWL 72 3 y
 OOP 90 6 y
-
+```
