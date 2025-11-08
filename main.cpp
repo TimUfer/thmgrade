@@ -1,6 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <sstream>
+#include <vector>
 struct module{
     std::string name;
     short grade;
